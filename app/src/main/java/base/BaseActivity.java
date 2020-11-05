@@ -11,6 +11,6 @@ public class BaseActivity {
 
     }
     protected void Destroy(){
-        
+
     }
 }

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BeautifulJurney</string>
+    <string name="pagina_principal">Pagina Principal</string>
+    <string name="musica">Musica</string>
+    <string name="sport_pagina">sport pagina</string>
+    <string name="home">Home</string>
+    <string name="deporte">Deporte</string>
 </resources>
